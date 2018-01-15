@@ -85,3 +85,12 @@ body {
 .table > tbody > tr > td {
      vertical-align: middle;
 }
+
+a {
+    
+    display: inline-block;
+    text-decoration: none;
+    margin: 12px;
+}
+    
+}
